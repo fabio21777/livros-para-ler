@@ -8,7 +8,7 @@ Lista de leitura recomendada — cobre criação de sistemas, comunicação entr
  
 ## Checklist de Leitura
  
-- [] **O Mítico Homem-Mês** — *Fred Brooks (1975)*
+- [ ] **O Mítico Homem-Mês** — *Fred Brooks (1975)*
   Mesmo com 50 anos, continua certo. Adicionar pessoas a um projeto atrasado o atrasa ainda mais. O overhead de comunicação cresce quadraticamente. Não existe bala de prata.
 - [X] **O Programador Pragmático** — *Andrew Hunt & David Thomas*
   Ensina que programar não é sobre sintaxe, é sobre pensar. DRY, tracer bullets, debug por raciocínio. Prático e atemporal, independente de linguagem ou framework.
@@ -18,4 +18,5 @@ Lista de leitura recomendada — cobre criação de sistemas, comunicação entr
   A sequência espiritual do anterior. Enquanto a maioria dos livros mostra o caminho feliz, esse aqui mostra as transações distribuídas. Ensina como sistemas se comunicam entre si e por que é aí que mora a complexidade real.
 - [ ] **Programação Extrema Explicada: Acolha as Mudanças** — *Kent Beck*
   O livro que deu coração ao ágil. Não o ágil de frameworks e certificações, mas o de ciclos curtos, feedback contínuo e abraçar a mudança ao invés de fingir que dá pra planejá-la. Tudo sobre feedback loops, entregas pequenas, test-first e pair programming já estava aqui em 1999.
+- [ ] **Dinosaur Brains: Dealing with All Those Impossible People at Work**
 ---
